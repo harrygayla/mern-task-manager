@@ -20,6 +20,11 @@ A simple, full-stack task tracker built using the **MERN stack** (MongoDB, Expre
 
 ---
 
+## 🌐 Live Demo
+
+- 🔗 Frontend: [https://mern-task-manager-2z8gqvv3n-harry-gaylas-projects.vercel.app/](https://mern-task-manager-2z8gqvv3n-harry-gaylas-projects.vercel.app/)
+- 🔗 Backend: [https://mern-task-manager-qhp6.onrender.com/api/tasks](https://mern-task-manager-qhp6.onrender.com/api/tasks)
+
 ## 📁 Folder Structure
 
 ```
