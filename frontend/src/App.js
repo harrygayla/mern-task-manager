@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/tasks";
+const API_URL = "https://mern-task-manager-qhp6.onrender.com/api/tasks";
 
 function App() {
   const [tasks, setTasks] = useState([]);
