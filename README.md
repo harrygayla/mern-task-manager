@@ -17,7 +17,6 @@ A simple, full-stack task tracker built using the **MERN stack** (MongoDB, Expre
 
 ![Task Tracker UI](./assets/screenshot.png)
 
-> Replace this image with an actual screenshot of your running app.
 
 ---
 
@@ -126,7 +125,7 @@ node_modules/
 ## ✍️ Author
 
 **Harry** — Computer Engineer
-📫 Contact: harrygayla@gmail.com (replace with yours)
+📫 Contact: harrygayla@gmail.com 
 
 ---
 
